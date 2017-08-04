@@ -30,3 +30,21 @@
 *.exe
 *.out
 *.app
+
+# Unused Files
+*.log
+*.tlog
+*.pdb
+*.ipdb
+*.iobj
+*.user
+*.filters
+*.suo
+*.db
+*.idb
+*.exp
+*.ilk
+*.lastbuildstate
+*.ipch
+*.sdf
+*.opendb
