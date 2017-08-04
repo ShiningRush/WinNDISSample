@@ -1,0 +1,21 @@
+﻿  stdafx.cpp
+c:\users\admin\documents\visual studio 2017\projects\rawsocket\arpscanner\stdafx.h(23): warning C4005: “UNICODE”: 宏重定义
+  c:\users\admin\documents\visual studio 2017\projects\rawsocket\arpscanner\stdafx.h(23): note: 命令行参数: 参见前面的“UNICODE”定义
+  protoutils.cpp
+  ProtoPacket.cpp
+  ARPScanner.cpp
+c:\users\admin\documents\visual studio 2017\projects\rawsocket\arpscanner\arpscanner.cpp(148): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\um\winsock2.h(1828): note: 参见“inet_addr”的声明
+c:\users\admin\documents\visual studio 2017\projects\rawsocket\arpscanner\arpscanner.cpp(149): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\um\winsock2.h(1828): note: 参见“inet_addr”的声明
+c:\users\admin\documents\visual studio 2017\projects\rawsocket\arpscanner\arpscanner.cpp(150): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\um\winsock2.h(1828): note: 参见“inet_addr”的声明
+c:\users\admin\documents\visual studio 2017\projects\rawsocket\arpscanner\arpscanner.cpp(158): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\um\winsock2.h(1846): note: 参见“inet_ntoa”的声明
+c:\users\admin\documents\visual studio 2017\projects\rawsocket\arpscanner\arpscanner.cpp(161): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\um\winsock2.h(1846): note: 参见“inet_ntoa”的声明
+c:\users\admin\documents\visual studio 2017\projects\rawsocket\arpscanner\arpscanner.cpp(164): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\um\winsock2.h(1846): note: 参见“inet_ntoa”的声明
+  正在生成代码...
+  ARPScanner.vcxproj -> C:\Users\admin\Documents\Visual Studio 2017\Projects\RawSocket\x64\Debug\ARPScanner.exe
+  ARPScanner.vcxproj -> C:\Users\admin\Documents\Visual Studio 2017\Projects\RawSocket\x64\Debug\ARPScanner.pdb (Partial PDB)
